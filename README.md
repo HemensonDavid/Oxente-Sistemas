@@ -1,2 +1,2 @@
 # Oxente-Sistemas
-Sistema desenvolvido no meio acadêmico pra colocar em prática os conhecimentos.
+Sistema desenvolvido no âmbito acadêmico pra colocar em prática os conhecimentos.
